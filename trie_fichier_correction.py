@@ -1,9 +1,7 @@
 import os
 from glob import glob
 import shutil
-
-chemin = "/Users/thibh/trier_fichiers_sources"
-
+chemin =r"D:\PERSO\python\cours_tp\tri_fichiers_sources"
 extensions = {".mp3": "Musique",
               ".wav": "Musique",
               ".mp4": "Videos",
