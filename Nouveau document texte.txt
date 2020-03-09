@@ -1,0 +1,7 @@
+librairie
+ - PySide2
+ - currencyconverter
+ 
+
+-------------------------------
+QtWidgets
